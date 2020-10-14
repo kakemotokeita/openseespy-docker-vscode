@@ -1,0 +1,5 @@
+eqsig==1.2.4
+matplotlib==3.3.2
+numpy==1.19.2
+openseespy==3.2.2.5
+pylint==2.6.0

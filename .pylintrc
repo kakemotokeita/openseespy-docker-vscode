@@ -1,0 +1,6 @@
+[MASTER]
+disable=
+    invalid-name,
+
+[FORMAT]
+max-line-length=120
