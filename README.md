@@ -1,6 +1,6 @@
 # openseespy-docker-vscode
 
-This is example code to use openseespy with docker and Visual Studio Code.
+This is example code to use [OpenSeesPy](https://openseespydoc.readthedocs.io/en/latest/) with docker and Visual Studio Code.
 
 ## Requirements
 
